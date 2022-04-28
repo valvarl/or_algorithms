@@ -16,3 +16,4 @@ include(cmake/TestSolution.cmake)
 include(cmake/BuildFlags.cmake)
 
 add_subdirectory(lab1)
+add_subdirectory(lab2)
