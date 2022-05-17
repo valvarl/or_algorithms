@@ -21,3 +21,10 @@ Benchmark results can be found [here](lab1/README.md).
 *  Least Cost B&B algorithm
 
 Benchmark results can be found [here](lab2/README.md).
+
+## 3. Genetic Algorithms
+
+* Knapsack problem
+* Travelling salesman problem
+
+Benchmark results can be found [here](lab3/README.md).
