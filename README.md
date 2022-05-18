@@ -28,3 +28,10 @@ Benchmark results can be found [here](lab2/README.md).
 * Travelling salesman problem
 
 Benchmark results can be found [here](lab3/README.md).
+
+## 4. Quadratic assignment problem
+
+* Local search - best improvement
+* Iterated local search - stochastic k-opt
+
+Benchmark results can be found [here](lab4/README.md).
