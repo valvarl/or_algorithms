@@ -35,3 +35,9 @@ Benchmark results can be found [here](lab3/README.md).
 * Iterated local search - stochastic k-opt
 
 Benchmark results can be found [here](lab4/README.md).
+
+## 5. Cell formation problem
+
+* Simulated annealing
+
+Benchmark results can be found [here](lab5/README.md).
